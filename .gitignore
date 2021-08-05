@@ -7,3 +7,7 @@ examples/*/html/index.js
 /.psc*
 /.purs*
 /.psa*
+/.envrc
+/.spago/
+/nix/
+/shell.nix
