@@ -1,5 +1,6 @@
 module SDOM.Attributes
-  ( for
+  ( attr
+  , for
   , id
   , name
   , className
